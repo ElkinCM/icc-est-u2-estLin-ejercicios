@@ -109,6 +109,6 @@ public class LogicaClasificacion {
         result.addAll(impares);
 
 
-        return new ArrayList<>();
+        return result;
     }
 }
