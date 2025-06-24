@@ -103,6 +103,7 @@ public class LogicaClasificacion {
                 impares.add(numero);
             }
         }
+        
 
         List<Integer> result = new LinkedList<>();
         result.addAll(pares);
